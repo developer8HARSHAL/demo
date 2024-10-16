@@ -40,7 +40,8 @@ export default function Header({ toggleSidebar }: { toggleSidebar: () => void })
       </div>
 
       <div className="flex-1 flex justify-center items-center">
-        <img className="h-20 w-auto" src="https://peopleprohrm.com/demo/images/logo/logo.png" alt="Logo" />
+      <img className="h-20 w-auto" src="/logo.png" alt="Logo" />
+
       </div>
 
       <nav className="flex-1 flex items-center space-x-8 justify-end">
